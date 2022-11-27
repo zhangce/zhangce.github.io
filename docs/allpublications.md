@@ -8,7 +8,7 @@ has_toc: false
 {: .note-title}
 > Selected Publications
 >
-> A list of Selected Publications and their descriptions can be found [here](./publication.html).
+> A list of Selected Publications and their descriptions can be found [here](./publications.html).
 
 
 ## All Publications (Chronological Order)
