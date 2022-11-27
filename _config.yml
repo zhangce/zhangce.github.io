@@ -9,7 +9,7 @@ aux_links:
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
@@ -108,7 +108,7 @@ callouts:
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-2709176-10
+ga_tracking: G-LMDDC82G58
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
