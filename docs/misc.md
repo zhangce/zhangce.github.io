@@ -5,7 +5,6 @@ has_toc: false
 nav_order: 5
 ---
 
-
 ## Teaching
 
 - Data Modelling and Databases ([2022](https://ds3lab.inf.ethz.ch/dmdb.html), 2021, 2020; w/ Gustavo Alonso: 2019 ,2018): 

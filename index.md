@@ -11,30 +11,47 @@ nav_order: 1
 
 I am an Assistant Professor in Computer Science at ETH Zurich (since 2016). The goal of my research is to make machine learning techniques widely accessible—while being cost-efficient and trustworthy—to everyone who wants to use them to make our world a better place. 
 
-Before ETH, I finished my PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford. 
+Before ETH, I finished my PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford, both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/).
+I did my undergraduate study at Peking University, advised by Bin Cui. 
 
 With a background in data management, we believe in a system approach. Our current research focues on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. 
 
-**Contact**: [ce.zhang@inf.ethz.ch](mailto:ce.zhang@inf.ethz.ch)
-
+[[**Email: ce.zhang@inf.ethz.ch**](mailto:ce.zhang@inf.ethz.ch)] 
+[[**Google Scholar**](https://scholar.google.ch/citations?hl=en&user=GkXqbmMAAAAJ)]
+[[**Twitter**](https://twitter.com/DS3Lab)]
 
 Check out a summary of our research [here](./docs/research.html). We are also helping to build up two exciting start-up companies:
   - **[Together Computer](https://www.together.xyz/)**: A decentralized cloud for 
 artificial intelligence, with the mission to bring the world's computation together to support the open models ecosystem.
-  - **[Modulos.AI](https://www.modulos.ai/)**: Data-centric AI enterprise platform helps you find the errors, noise and bias in your data so you can build fairer and better AI, faster.
+  - **[Modulos.AI](https://www.modulos.ai/)**: A data-centric AI enterprise platform helps you find the errors, noise and bias in your data so you can build fairer and better AI, faster.
 
-As a research group, one of the most important duty is to nurture the next generation of leaders, which arguably gives us the most significant long-lasting impact to our society. Over the years, students graduated from our groups have became professors in great universities and researchers and engineers in leading industrial companies. See a list and their achievements [here](./docs/students.html).
+As a research group, one of the most important duty is to nurture the next generation of leaders, which arguably gives us the most significant long-lasting impact to the society. Over the years, students graduated from our groups have became professors in great universities and researchers and engineers in leading industrial companies. See a list and their achievements [here](./docs/students.html).
 
+
+We are super lucky to have been involved in several community building 
+efforts, from 
+machine learning systems, data management for ML, to Data-centric AI. 
+Here are a few recent positioning papers on various topics (joint work 
+with many awesome fellow researchers):
+
+- [Advances, challenges and opportunities in creating data for trustworthy AI
+](https://www.nature.com/articles/s42256-022-00516-1) (Nature Machine Intelligence), with Weixin Liang, Girmaw Tadesse, Daniel Ho, Li Fei-Fei, Matei Zaharia, and James Zou 
+- [DataPerf: Benchmarks for Data-Centric AI Development (MLCommons)](https://arxiv.org/abs/2207.10062), with a great consortium of researchers who are passionated about data quality for ML and
+data iterations.
+- [A Data Quality-Driven View of MLOps](https://arxiv.org/abs/2102.07750) (IEEE Data Engineering Bulletin). 
+- [MLSys: The New Frontier of Machine Learning Systems](https://arxiv.org/abs/1904.03257), the positioning paper for the
+first MLSys conference, with a awesome consortium of researchers from machine
+learning, systems, data management, security, computer architecture, etc.
 
 ----
 
-[<span style="color:red">Binhang Yuan</span>](https://binhangyuan.github.io/site/) is on the market this year. He has done awesome works on machine learning systems, especially distributed and decentralized learning. [[CV](https://binhangyuan.github.io/site/resume.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=TflKxcIAAAAJ&hl=en)]
+[<span style="color:red">Binhang Yuan</span>](https://binhangyuan.github.io/site/) is on the market this year! He has done awesome work on machine learning systems, especially distributed and decentralized learning. [[CV](https://binhangyuan.github.io/site/resume.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=TflKxcIAAAAJ&hl=en)]
 
 ----
 
 ## News and Student Highlights
 
-- [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) is joining **TU Delft** as an assistant professor;
+- [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) joins **TU Delft** as an assistant professor;
 - **[ERC Grant](https://erc.europa.eu/homepage)**. Blog: [What are we going to build with an ERC?](https://ds3lab.ghost.io/what-are-we-building-with-an-erc/)
 - **Generation Google Scholarship** for [Nezihe Merve Gurel](https://nezihemervegurel.github.io/);
 - [Jiawei Jiang](http://bluesjjw.github.io/) joins **Wuhan University** as a full professor;
