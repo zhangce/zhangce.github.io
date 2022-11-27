@@ -35,7 +35,7 @@ Here are a few recent positioning papers on various topics (joint work
 with many awesome fellow researchers):
 
 - [Advances, challenges and opportunities in creating data for trustworthy AI
-](https://www.nature.com/articles/s42256-022-00516-1) (Nature Machine Intelligence), with Weixin Liang, Girmaw Tadesse, Daniel Ho, Li Fei-Fei, Matei Zaharia, and James Zou 
+](https://www.nature.com/articles/s42256-022-00516-1) (Nature Machine Intelligence), with Weixin Liang, Girmaw Tadesse, Daniel Ho, Li Fei-Fei, Matei Zaharia, and James Zou.
 - [DataPerf: Benchmarks for Data-Centric AI Development (MLCommons)](https://arxiv.org/abs/2207.10062), with a great consortium of researchers who are passionated about data quality for ML and
 data iterations.
 - [A Data Quality-Driven View of MLOps](https://arxiv.org/abs/2102.07750) (IEEE Data Engineering Bulletin). 
