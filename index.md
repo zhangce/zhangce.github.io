@@ -32,7 +32,7 @@ We are super lucky to have been involved in several community building
 efforts, from 
 machine learning systems, data management for ML, to Data-centric AI. 
 Here are a few recent positioning papers on various topics (joint work 
-with many awesome fellow researchers):
+with many fellow researchers):
 
 - [Advances, challenges and opportunities in creating data for trustworthy AI
 ](https://www.nature.com/articles/s42256-022-00516-1) (Nature Machine Intelligence), with Weixin Liang, Girmaw Tadesse, Daniel Ho, Li Fei-Fei, Matei Zaharia, and James Zou.
@@ -45,7 +45,7 @@ learning, systems, data management, security, computer architecture, etc.
 
 ----
 
-[<span style="color:red">Binhang Yuan</span>](https://binhangyuan.github.io/site/) is on the market this year! He has done awesome work on machine learning systems, especially distributed and decentralized learning. [[CV](https://binhangyuan.github.io/site/resume.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=TflKxcIAAAAJ&hl=en)]
+[<span style="color:red">Binhang Yuan</span>](https://binhangyuan.github.io/site/) is on the market this year! He has done amazing work on machine learning systems, especially distributed and decentralized learning. [[CV](https://binhangyuan.github.io/site/resume.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=TflKxcIAAAAJ&hl=en)]
 
 ----
 
