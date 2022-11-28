@@ -70,7 +70,10 @@ learning, systems, data management, security, computer architecture, etc.
 
 ## Recent/Upcoming Events
 
-- **NeurIPS 2022** We will present five papers, including one Oral and two Spotlights, on decentralized learning, vertical federated learning, reasoning, and robustness
+### NeurIPS 2022
+
+- 11/29/2022 09:30-11:30 (PST): Come by my [WiML roundtable](https://sites.google.com/view/wiml2022/program?authuser=0#h.9t5tg498nbhs) if you are interested in ML Systems.
+- We will also present five papers, including one Oral and two Spotlights, on decentralized learning, vertical federated learning, reasoning, and robustness
   - <span style="color:blue">Binhang Yuan</span>,
     <span style="color:blue">Yongjun He</span>: **_Decentralized Training of Foundation Models in Heterogeneous Environments_** <span style="color:red">(Oral)</span>
     - 11/30/2022, 09:30-11:00 (PST): [Poster Session](https://neurips.cc/virtual/2022/poster/53302)
@@ -86,7 +89,10 @@ learning, systems, data management, security, computer architecture, etc.
     <span style="color:blue">Linyi Li</span>: **_Certifying Some Distributional Fairness with Subpopulation Decomposition_** 
     - 11/30/2022, 14:30-16:00 (PST): [Poster Session](https://nips.cc/virtual/2022/spotlight/64931)
     - 12/06/2022, 17:00-19:00 (PST): [Spotlight Presentation](https://nips.cc/virtual/2022/spotlight/64931)
-- **VLDB 2022** We will present five papers, including the <span style="color:red">Bagua</span> system that enables decentralization, asynchronization, and communication compression for scalable distributed learning, and other topics on fraud detection (with eBay), differentiable ML pipelines, AutoML, and federated learning:
+
+### VLDB 2022
+
+- We will present five papers, including the <span style="color:red">Bagua</span> system that enables decentralization, asynchronization, and communication compression for scalable distributed learning, and other topics on fraud detection (with eBay), differentiable ML pipelines, AutoML, and federated learning:
   - <span style="color:blue">Shaoduo Gan</span>, <span style="color:blue">Xiangru Lian</span>: **_BAGUA: Scaling up Distributed Learning with System Relaxations_**
     - 09/08/2022, 15:30-17:00: [[Paper](https://www.vldb.org/pvldb/vol15/p804-gan.pdf)] [[System](https://github.com/BaguaSys/bagua)] [[Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/api/pytorch_lightning.strategies.BaguaStrategy.html)]
   - <span style="color:blue">Susie Rao</span>, <span style="color:blue">Shuai Zhang</span>: **_xFraud: Explainable Fraud Transaction Detection_**
