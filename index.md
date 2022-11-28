@@ -72,10 +72,10 @@ learning, systems, data management, security, computer architecture, etc.
 
 ### NeurIPS 2022
 
-- 11/29/2022 09:30-11:30 (PST): Come by my [WiML roundtable](https://sites.google.com/view/wiml2022/program?authuser=0#h.9t5tg498nbhs) if you are interested in ML Systems.
+- 11/29/2022 09:30-11:30 (PST): Come by our [WiML roundtable](https://sites.google.com/view/wiml2022/program?authuser=0#h.9t5tg498nbhs) if you are interested in ML Systems.
 - We will also present five papers, including one Oral and two Spotlights, on decentralized learning, vertical federated learning, reasoning, and robustness
   - <span style="color:blue">Binhang Yuan</span>,
-    <span style="color:blue">Yongjun He</span>: **_Decentralized Training of Foundation Models in Heterogeneous Environments_** <span style="color:red">(Oral)</span>
+    <span style="color:blue">Yongjun He</span>: **_Decentralized Training of Foundation Models in Heterogeneous Environments_** <span style="color:blue">(Oral)</span>
     - 11/30/2022, 09:30-11:00 (PST): [Poster Session](https://neurips.cc/virtual/2022/poster/53302)
     - 12/07/2022, 17:45-18:00 (PST): [Virtual Panel for Oral Papers](https://nips.cc/virtual/2022/session/64760)
   - <span style="color:blue">Binhang Yuan</span>, <span style="color:blue">Jue Wang</span>: **_Fine-tuning Language Models over Slow Networks using Activation Quantization with Guarantees_**
