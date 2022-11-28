@@ -25,7 +25,7 @@ Check out a summary of our research [here](./docs/research.html). We are also cu
 artificial intelligence, with the mission to bring the world's computation together to support the open models ecosystem.
   - **[Modulos.AI](https://www.modulos.ai/)**: A data-centric AI enterprise platform helps you find the errors, noise and bias in your data so you can build fairer and better AI, faster.
 
-As a research group, one of the most important duty is to nurture the next generation of leaders, which arguably gives us the most significant long-lasting impact to the society. Over the years, students graduated from our groups have became professors in great universities and researchers and engineers in leading industrial companies. See a list and their achievements [here](./docs/students.html).
+As a research group, one of our most important duties is to nurture the next generation of leaders, which arguably gives us the most significant long-lasting impact to the society. Over the years, students graduated from our groups have became professors in great universities and researchers and engineers in leading industrial companies. See a list and their achievements [here](./docs/students.html).
 
 
 We are super lucky to have been involved in several community building 
