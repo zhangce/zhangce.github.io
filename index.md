@@ -70,7 +70,7 @@ learning, systems, data management, security, computer architecture, etc.
 
 ## Recent/Upcoming Events
 
-- **NeurIPS 2022** We will present five papers, including one Oral, on decentralized learning, vertical federated learning, reasoning, and robustness
+- **NeurIPS 2022** We will present five papers, including one Oral and two Spotlights, on decentralized learning, vertical federated learning, reasoning, and robustness
   - <span style="color:blue">Binhang Yuan</span>,
     <span style="color:blue">Yongjun He</span>: **_Decentralized Training of Foundation Models in Heterogeneous Environments_** <span style="color:red">(Oral)</span>
     - 11/30/2022, 09:30-11:00 (PST): [Poster Session](https://neurips.cc/virtual/2022/poster/53302)
@@ -78,15 +78,14 @@ learning, systems, data management, security, computer architecture, etc.
   - <span style="color:blue">Binhang Yuan</span>, <span style="color:blue">Jue Wang</span>: **_Fine-tuning Language Models over Slow Networks using Activation Quantization with Guarantees_**
     - 11/29/2022, 09:30-11:00 (PST): [Poster Session](https://nips.cc/virtual/2022/poster/53316) 
   - <span style="color:blue">Jiawei Jiang</span>: **_VF-PS: How to Select Important Participants in Vertical Federated Learning, Efficiently and Securely?_** 
-    - 12/06/2022, 09:00-11:00 (PST): [Lightning Talk](https://nips.cc/virtual/2022/spotlight/65825)
+    - 12/06/2022, 09:00-11:00 (PST): [Spotlight Presentation](https://nips.cc/virtual/2022/spotlight/64818)
   - <span style="color:blue">Zhuolin Yang</span>, 
     <span style="color:blue">Zhikuan Zhao</span>: **_Improving Certified Robustness via Statistical Learning with Logical Reasoning_**
     - 12/01/2022, 14:30-16:00 (PST): [Poster Session](https://nips.cc/virtual/2022/poster/53608)
   - <span style="color:blue">Mintong Kang</span>,
     <span style="color:blue">Linyi Li</span>: **_Certifying Some Distributional Fairness with Subpopulation Decomposition_** 
     - 11/30/2022, 14:30-16:00 (PST): [Poster Session](https://nips.cc/virtual/2022/spotlight/64931)
-    - 12/06/2022, 17:00-19:00 (PST): [Lightning Talk](https://nips.cc/virtual/2022/spotlight/64931)
-  - https://nips.cc/virtual/2022/poster/52826
+    - 12/06/2022, 17:00-19:00 (PST): [Spotlight Presentation](https://nips.cc/virtual/2022/spotlight/64931)
 - **VLDB 2022** We will present five papers, including the <span style="color:red">Bagua</span> system that enables decentralization, asynchronization, and communication compression for scalable distributed learning, and other topics on fraud detection (with eBay), differentiable ML pipelines, AutoML, and federated learning:
   - <span style="color:blue">Shaoduo Gan</span>, <span style="color:blue">Xiangru Lian</span>: **_BAGUA: Scaling up Distributed Learning with System Relaxations_**
     - 09/08/2022, 15:30-17:00: [[Paper](https://www.vldb.org/pvldb/vol15/p804-gan.pdf)] [[System](https://github.com/BaguaSys/bagua)] [[Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/api/pytorch_lightning.strategies.BaguaStrategy.html)]
