@@ -13,6 +13,11 @@ has_toc: false
 
 ## All Publications (Chronological Order)
 
+### 2023
+
+- Cedric Renggli, Xiaozhe Yao, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. SHiFT: an efficient, flexible search engine for transfer learning. **_VLDB_** 2023.
+
+
 ### 2022
 
 - Binhang Yuan*, Yongjun He*, Jared Quincy Davis, Tianyi Zhang, Tri Dao, Beidi Chen, Percy Liang, Christopher Re,  Ce Zhang. Decentralized Training of Foundation Models in Heterogeneous Environments.  **_NeurIPS_** 2022 <span style="color:red">(Oral Presentation 186/9600 = 1.9% submissions)</span>
