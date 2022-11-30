@@ -45,6 +45,10 @@ learning, systems, data management, security, computer architecture, etc.
 
 ----
 
+We are always looking for top candidates for PhDs and Postdocs with background in systems or theory on data management, mathematical optimization, and machine learning. Feel free to reach out!
+
+----
+
 ## News and Student Highlights
 
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) joins **TU Delft** as an assistant professor;
