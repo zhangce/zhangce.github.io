@@ -17,6 +17,7 @@ Postdocs/Researchers/Engineers: [Joshua Veitch-Michaelis](https://scholar.google
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) (PhD 2022, Assistant Professor at TU Delft)
 - [Cedric Renggli](https://rengglic.github.io/) (PhD 2022, Postdoc at University of Zurich)
 - [Bojan Karlaš](https://bojan.ninja/) (PhD 2022, Postdoc at Harvard University)
+- [Luka Rimanic](https://people.inf.ethz.ch/lrimanic/) (Postdoc 2022, Google Zurich)
 - [Jiawei Jiang](http://bluesjjw.github.io/) (Postdoc 2022, Professor at Wuhan University)
 - [Zhikuan Zhao](https://scholar.google.com/citations?user=7z1kkfEAAAAJ&hl=en) (Postdoc 2022, Researcher at Horizon Quantum Computing)
 - [Shuai Zhang](https://shuaizhang.tech/) (Postdoc 2022, Amazon Web Services AI)

@@ -45,10 +45,6 @@ learning, systems, data management, security, computer architecture, etc.
 
 ----
 
-[<span style="color:red">Binhang Yuan</span>](https://binhangyuan.github.io/site/) is on the market this year! He has done amazing work on machine learning systems, especially distributed and decentralized learning. [[CV](https://binhangyuan.github.io/site/resume.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=TflKxcIAAAAJ&hl=en)]
-
-----
-
 ## News and Student Highlights
 
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) joins **TU Delft** as an assistant professor;
