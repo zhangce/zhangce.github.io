@@ -24,7 +24,7 @@ The key belief behind my research is that _we need to bring the costs down, by o
   - Main Reference: [_Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters_](https://arxiv.org/abs/2111.05897), **SIGKDD'22**.
   - Blog from Google Cloud: [_Training Deep Learning-based recommender models of 100 trillion parameters over Google Cloud_](https://cloud.google.com/blog/products/ai-machine-learning/training-a-recommender-model-of-100-trillions-parameters-on-google-cloud)
 
-<img align="right" src="https://github.com/zhangce/zhangce.github.io/blob/master/images/Gauss.png?raw=true" width="55px"/> [**OpenGauss DB4AI**](https://opengauss.org/en/) <img width="50px" src="https://img.shields.io/github/stars/opengauss-mirror/openGauss-server.svg"> <ins>_In-Database Machine Learning with deep physical integration_</ins>
+<img align="right" src="https://opengauss.org/assets/logo.f9b44888.svg" width="55px"/> [**OpenGauss DB4AI**](https://opengauss.org/en/) <img width="50px" src="https://img.shields.io/github/stars/opengauss-mirror/openGauss-server.svg"> <ins>_In-Database Machine Learning with deep physical integration_</ins>
   - Main Reference: [_In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle_](https://arxiv.org/abs/2206.05830), **SIGMOD'22**.
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Greek_lc_lamda.svg/1200px-Greek_lc_lamda.svg.png" width="55px"/> [**LambdaML**](https://github.com/DS3Lab/LambdaML) <img width="50px" src="https://img.shields.io/github/stars/DS3Lab/LambdaML.svg"> <ins>_Distributed machine learning over serverless infrastructure_</ins>
