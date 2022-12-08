@@ -14,7 +14,7 @@ The key belief behind my research is that _we need to bring the costs down, by o
 
 ## Project Zip.ML: Distributed and Decentralized Learning at Scale
 
-<img align="right" src="https://github.com/zhangce/zhangce.github.io/blob/4f195a8bdffbafbed1e410fd13636c01b42efd67/images/BaguaLogo.png?raw=true" width="55px"/> [**Bagua**](https://github.com/BaguaSys/bagua) <img width="50px" src="https://img.shields.io/github/stars/BaguaSys/bagua.svg"> <ins>_Distributed learning with system relaxations: Decentralization, Asynchronization, Compression_</ins> 
+<img align="right" src="https://avatars.githubusercontent.com/u/84775468?s=200&v=4" width="55px"/> [**Bagua**](https://github.com/BaguaSys/bagua) <img width="50px" src="https://img.shields.io/github/stars/BaguaSys/bagua.svg"> <ins>_Distributed learning with system relaxations: Decentralization, Asynchronization, Compression_</ins> 
   - Also available in [Pytorch Lightening  (`BaguaStrategy`)](https://pytorch-lightning.readthedocs.io/en/latest/api/pytorch_lightning.strategies.BaguaStrategy.html)!
   - Main System Reference:  [_BAGUA: Scaling up Distributed Learning with System Relaxations_](https://arxiv.org/abs/2107.01499), **VLDB'22**.
 <img align="right" src="https://assets.thalia.media/img/artikel/9071fc0b91de81745798522e154c648539b5f35f-00-00.jpeg" width="50px"/>
