@@ -7,7 +7,7 @@ nav_order: 1
 
 ## About Me
 
-<img align="right" src="./assets/ce_2022.png" width="150px" style="margin:10px 10px"/>
+<img align="right" src="./assets/imgs/ce_2022.png" width="150px" style="margin:10px 10px"/>
 
 I am an Assistant Professor in Computer Science at ETH Zurich (since 2016). The goal of my research is to make machine learning techniques widely accessible—while being cost-efficient and trustworthy—to everyone who wants to use them to make our world a better place. 
 
