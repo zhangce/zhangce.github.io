@@ -11,4 +11,4 @@ Ce is an Assistant Professor in Computer Science at ETH Zurich. The mission of 
 
 
 
-<img src="https://ds3lab.inf.ethz.ch/members/ce-zhang.person_image.jpeg?persid=MjMwNDI1" width="150px" style="margin:10px 10px"/>
+<img src="./assets/imgs/ce_2022.png" width="150px" style="margin:10px 10px"/>
