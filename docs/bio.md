@@ -11,4 +11,4 @@ Ce is an Assistant Professor in Computer Science at ETH Zurich. The mission of 
 
 
 
-<img src="./assets/imgs/ce_2022.png" width="150px" style="margin:10px 10px"/>
+<img src="../assets/imgs/ce_2022.png" width="150px" style="margin:10px 10px"/>
