@@ -12,7 +12,7 @@ PhD Students: [Xiaozhe Yao](https://about.yao.sh/); [Samantha Biegel](https://ww
 
 Postdocs/Researchers/Engineers: [Joshua Veitch-Michaelis](https://scholar.google.com/citations?user=Wb1ZLRAAAAAJ&hl=en); [Lijie Xu](https://jerrylead.github.io/); [Binhang Yuan](https://binhangyuan.github.io/site/); [Leonel Aguilar](https://cog.ethz.ch/people/dr--leonel_aguilar.html); [Angus Hamilton](https://inf.ethz.ch/people/people-atoz/person-detail.MzA2NTMy.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html); [Yafen Fang](https://woqidaideshi.github.io/).
 
-### Alumni 
+### Alumni and First Employment
 
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) (PhD 2022, Assistant Professor at TU Delft)
 - [Cedric Renggli](https://rengglic.github.io/) (PhD 2022, Apple)
