@@ -1,0 +1,13 @@
+
+| OptionID | Development Time | Performance | UI Change |
+| --------- | --------- | --------- | --------- |
+| 1 | 3 weeks | 80ms | yes |
+| 2 | 4 weeks | 60ms | no |
+| 3 | 6 weeks | 30ms | no |
+
+
+ OptionID | Development Time | Performance | UI Change |
+| --------- | --------- | --------- | --------- |
+| 1 | 3 weeks | 80ms | yes |
+| 2 | 4 weeks | 60ms | no |
+| 3 | 6 weeks | 30ms | no |
