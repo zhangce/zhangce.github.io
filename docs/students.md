@@ -14,6 +14,7 @@ Postdocs/Researchers/Engineers: [Joshua Veitch-Michaelis](https://scholar.google
 
 ### Alumni and First Employment
 
+- [Binhang Yuan](https://binhangyuan.github.io/site/) (Postdoc 2023, Assistant Professor at Hong Kong University of Science and Technology)
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) (PhD 2022, Assistant Professor at TU Delft)
 - [Cedric Renggli](https://rengglic.github.io/) (PhD 2022, Apple)
 - [Bojan Karlaš](https://bojan.ninja/) (PhD 2022, Postdoc at Harvard University)
@@ -28,6 +29,7 @@ Postdocs/Researchers/Engineers: [Joshua Veitch-Michaelis](https://scholar.google
 
 ### Student Highlights and News
 
+- [Binhang Yuan](https://binhangyuan.github.io/site/) is joining Hong Kong University of Science and Technology as an assistant professor;
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) joins **TU Delft** as an assistant professor;
 - **Generation Google Scholarship** for [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) ;
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) joins the Board of Directors of **WiML**;
