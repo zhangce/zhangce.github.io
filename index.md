@@ -51,6 +51,7 @@ We are always looking for top candidates for PhDs and Postdocs with background i
 
 ## News and Student Highlights
 
+- [Binhang Yuan](https://binhangyuan.github.io/site/) is joining Hong Kong University of Science and Technology as an assistant professor;
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) joins **TU Delft** as an assistant professor;
 - **[ERC Grant](https://erc.europa.eu/homepage)**. Blog: [What are we going to build with an ERC?](https://ds3lab.ghost.io/what-are-we-building-with-an-erc/)
 - **Generation Google Scholarship** for [Nezihe Merve Gurel](https://nezihemervegurel.github.io/);
