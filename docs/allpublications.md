@@ -15,8 +15,15 @@ has_toc: false
 
 ### 2023
 
-- Cedric Renggli, Xiaozhe Yao, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. SHiFT: an efficient, flexible search engine for transfer learning. **_VLDB_** 2023.
+- Jue WANG, Yucheng Lu, Binhang Yuan, Beidi Chen, Percy Liang, Christopher De Sa, Christopher Re, Ce Zhang. CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks. **_ICML_** 2023.
 
+- Ying Sheng, Lianmin Zheng, Binhang Yuan, Zhuohan Li, Max Ryabinin, Beidi Chen, Percy Liang,Ion Stoica, Christopher Re, Ce Zhang. High-throughput Generative Inference of Large Language Models with a Single GPU. **_ICML_** 2023.
+
+- Zichang Liu, Jue WANG, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Re, Beidi Chen. Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time. **_ICML_** 2023.
+
+- Zhen WANG, Weirui Kuang, Ce Zhang, Bolin Ding, Yaliang Li. FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization. **_ICML_** 2023.
+
+- Cedric Renggli, Xiaozhe Yao, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. SHiFT: an efficient, flexible search engine for transfer learning. **_ICML_** 2023.
 
 ### 2022
 
