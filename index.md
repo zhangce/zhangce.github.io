@@ -11,8 +11,7 @@ nav_order: 1
 
 I am an Associate Professor in Computer Science at ETH Zurich. The goal of my research is to make machine learning techniques widely accessible—while being cost-efficient and trustworthy—to everyone who wants to use them to make our world a better place. 
 
-Before ETH, I finished my PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford, both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/).
-I did my undergraduate study at Peking University, advised by [Bin Cui](https://cuibinpku.github.io/). 
+Before ETH, I finished my PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford, both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/). I did my undergraduate study at Peking University, advised by [Bin Cui](https://cuibinpku.github.io/). 
 
 With a background in data management, we believe in a system approach. Our current research focues on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. 
 
