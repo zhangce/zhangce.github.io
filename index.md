@@ -9,9 +9,9 @@ nav_order: 1
 
 <img align="right" src="./assets/imgs/ce_2022.png" width="150px" style="margin:10px 10px"/>
 
-I am an Associate Professor in Computer Science at ETH Zurich. The goal of my research is to make machine learning techniques widely accessible—while being cost-efficient and trustworthy—to everyone who wants to use them to make our world a better place. 
+I am currently the CTO of [Together](http://together.xyz/), a decentralized cloud for artificial intelligence, and the incoming Associate Professor of Data Science at the Department of Computer Science of the [University of Chicago](http://cs.uchicago.edu/). Before that I was an Associate Professor at [ETH Zurich](https://inf.ethz.ch/). I am interested in the fundamental tension between data, model, computation and infrastructure and the goal of my research is to democratize machine learning for wants to use them to make our world a better place.
 
-Before ETH, I finished my PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford, both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/). I did my undergraduate study at Peking University, advised by [Bin Cui](https://cuibinpku.github.io/). 
+I finished my PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford, both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/). I did my undergraduate study at Peking University, advised by [Bin Cui](https://cuibinpku.github.io/). 
 
 With a background in data management, we believe in a system approach. Our current research focues on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. 
 
@@ -23,6 +23,8 @@ Check out a summary of our research [here](./docs/research.html). We are also bu
   - **[Together Computer](https://www.together.xyz/)**: A decentralized cloud for 
 artificial intelligence, with the mission to bring the world's computation together to support the open models ecosystem.
   - **[Modulos.AI](https://www.modulos.ai/)**: A data-centric AI enterprise platform helps you find the errors, noise and bias in your data so you can build fairer and better AI, faster.
+
+Another exciting initiative that I am lucky to be part of as the co-Editors-in-Chief is a new journal [DMLR](https://data.mlr.press/), a new member of the JMLR family focusing on data-centric machine learning research. Stay tuned!
 
 As a research group, one of our most important duties is to nurture the next generation of leaders, which arguably gives us the most significant long-lasting impact to the society. Over the years, students graduated from our groups have became professors in great universities and researchers and engineers in leading industrial companies. See a list and their achievements [here](./docs/students.html).
 
