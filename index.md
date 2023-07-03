@@ -24,7 +24,7 @@ Check out a summary of our research [here](./docs/research.html). We are also bu
 artificial intelligence, with the mission to bring the world's computation together to support the open models ecosystem.
   - **[Modulos.AI](https://www.modulos.ai/)**: A data-centric AI enterprise platform helps you find the errors, noise and bias in your data so you can build fairer and better AI, faster.
 
-Another exciting initiative that I am lucky to be part of as the co-Editors-in-Chief is a new journal **[DMLR]**(https://data.mlr.press/), a new member of the JMLR family focusing on data-centric machine learning research. Stay tuned!
+Another exciting initiative that I am lucky to be part of as the co-Editors-in-Chief is a new journal **[DMLR](https://data.mlr.press/)**, a new member of the JMLR family focusing on data-centric machine learning research. Stay tuned!
 
 As a research group, one of our most important duties is to nurture the next generation of leaders, which arguably gives us the most significant long-lasting impact to the society. Over the years, students graduated from our groups have became professors in great universities and researchers and engineers in leading industrial companies. See a list and their achievements [here](./docs/students.html).
 
