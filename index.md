@@ -11,7 +11,7 @@ nav_order: 1
 
 I am currently the CTO of [Together](http://together.xyz/), a decentralized cloud for artificial intelligence, and an incoming Associate Professor at the Department of Computer Science of the [University of Chicago](http://cs.uchicago.edu/). Before that I was an Associate Professor at [ETH Zurich](https://inf.ethz.ch/). I am interested in the fundamental tension between data, model, computation and infrastructure and the goal of my research is to democratize machine learning for wants to use them to make our world a better place.
 
-I finished my PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford, both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/). I did my undergraduate study at Peking University, advised by [Bin Cui](https://cuibinpku.github.io/). 
+I finished my PhD at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) and spent another year as a postdoctoral researcher at [Stanford](https://cs.stanford.edu/), both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/). I did my undergraduate study at Peking University, advised by [Bin Cui](https://cuibinpku.github.io/). 
 
 With a background in data management, we believe in a system approach. Our current research focues on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. 
 
