@@ -20,7 +20,7 @@ With a background in data management, we believe in a system approach. Our curre
 [[**Twitter**](https://twitter.com/DS3Lab)]
 
 Check out a summary of our research [here](./docs/research.html). We are also building up two exciting start-ups:
-  - **[Together Computer](https://www.together.xyz/)**: A decentralized cloud for 
+  - **[Together](https://www.together.xyz/)**: A decentralized cloud for 
 artificial intelligence, with the mission to bring the world's computation together to support the open models ecosystem.
   - **[Modulos.AI](https://www.modulos.ai/)**: A data-centric AI enterprise platform helps you find the errors, noise and bias in your data so you can build fairer and better AI, faster.
 
