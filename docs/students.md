@@ -6,12 +6,6 @@ has_toc: false
 nav_order: 3
 ---
 
-### Current Students 
-
-PhD Students: [Xiaozhe Yao](https://about.yao.sh/); [Samantha Biegel](https://www.linkedin.com/in/samanthabiegel/?originalSubdomain=nl); [Kenza Amara](https://systems.ethz.ch/people/profile.MjY0Mjcy.TGlzdC8zODg4LDEyOTU2NDI2OTI=.html); [Yongjun He](https://yongjunhe.github.io/); [Maurice Weber](https://mauriceweber.github.io/); [Yilmazcan Özyurt](https://inf.ethz.ch/people/people-atoz/person-detail.MjUzMDQ3.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html); [Johannes Rausch](https://inf.ethz.ch/people/people-atoz/person-detail.MjQzOTQx.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html); [David Dao](https://daviddao.org/).
-
-Postdocs/Researchers/Engineers: [Joshua Veitch-Michaelis](https://scholar.google.com/citations?user=Wb1ZLRAAAAAJ&hl=en); [Lijie Xu](https://jerrylead.github.io/); [Binhang Yuan](https://binhangyuan.github.io/site/); [Leonel Aguilar](https://cog.ethz.ch/people/dr--leonel_aguilar.html); [Angus Hamilton](https://inf.ethz.ch/people/people-atoz/person-detail.MzA2NTMy.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html); [Yafen Fang](https://woqidaideshi.github.io/).
-
 ### Alumni and First Employment
 
 - [Binhang Yuan](https://binhangyuan.github.io/site/) (Postdoc 2023, Assistant Professor at Hong Kong University of Science and Technology)
