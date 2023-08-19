@@ -8,6 +8,9 @@ nav_order: 3
 
 ### Alumni and First Employment
 
+<!-- - [Maurice Weber](https://mauriceweber.github.io/) (PhD 2023, Together AI) -->
+- [Jue Wang](https://juewang.me/about/index.html) (Together AI)
+- [David Dao](https://daviddao.org/) (PhD 2023, founder of GainForest)
 - [Binhang Yuan](https://binhangyuan.github.io/site/) (Postdoc 2023, Assistant Professor at Hong Kong University of Science and Technology)
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) (PhD 2022, Assistant Professor at TU Delft)
 - [Cedric Renggli](https://rengglic.github.io/) (PhD 2022, Apple)
