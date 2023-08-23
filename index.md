@@ -15,7 +15,7 @@ I finished my PhD at the [University of Wisconsin-Madison](https://www.cs.wisc.e
 
 With a background in data management, we believe in a system approach. Our current research focues on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. 
 
-[[**Email: ce.zhang@inf.ethz.ch**](mailto:ce.zhang@inf.ethz.ch)] 
+[[**Email: cez@uchicago.edu**](mailto:cez@uchicago.edu)] 
 [[**Google Scholar**](https://scholar.google.ch/citations?hl=en&user=GkXqbmMAAAAJ)]
 [[**Twitter**](https://twitter.com/DS3Lab)]
 
