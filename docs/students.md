@@ -12,7 +12,7 @@ nav_order: 3
 
 - [Jue Wang](https://juewang.me/about/index.html) (Researcher 2023, Together AI)
 - [David Dao](https://daviddao.org/) (PhD 2023, founder of GainForest)
-- [Susie Rao](https://susierao.github.io/about/)  (PhD 2023) 
+- [Susie Rao](https://susierao.github.io/about/)  (PhD 2023, Postdoc at ETH) 
 - [Johannes Rausch](https://j-rausch.github.io/) (PhD 2023) 
 - [Binhang Yuan](https://binhangyuan.github.io/site/) (Postdoc 2023, Assistant Professor at Hong Kong University of Science and Technology)
 - [Nezihe Merve Gurel](https://nezihemervegurel.github.io/) (PhD 2022, Assistant Professor at TU Delft)
