@@ -11,4 +11,4 @@ Ce is currently the CTO of Together.ai and an incoming associate professor at th
 
 
 
-<img src="../assets/imgs/ce_2022.png" width="150px" style="margin:10px 10px"/>
+<img src="../assets/imgs/CeZhangColor.jpeg" width="150px" style="margin:10px 10px"/>
