@@ -7,7 +7,7 @@ nav_order: 1
 
 ## About Me
 
-<img align="right" src="./assets/imgs/ce_2022.png" width="150px" style="margin:10px 10px"/>
+<img align="right" src="./assets/imgs/CeZhangColor.jpeg" width="150px" style="margin:10px 10px"/>
 
 I am currently the CTO of [Together](http://together.xyz/), a decentralized cloud for artificial intelligence, and an incoming Associate Professor at the Department of Computer Science of the [University of Chicago](http://cs.uchicago.edu/). Before that I was an Associate Professor at [ETH Zurich](https://inf.ethz.ch/). I am interested in the fundamental tension between data, model, computation and infrastructure and the goal of my research is to democratize machine learning for wants to use them to make our world a better place.
 
