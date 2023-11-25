@@ -9,28 +9,23 @@ nav_order: 1
 
 <img align="right" src="./assets/imgs/CeZhangColor.jpeg" width="150px" style="margin:10px 10px"/>
 
-I am currently the CTO of [Together](http://together.xyz/), a decentralized cloud for artificial intelligence, and an incoming Associate Professor at the Department of Computer Science of the [University of Chicago](http://cs.uchicago.edu/). Before that I was an Associate Professor at [ETH Zurich](https://inf.ethz.ch/). I am interested in the fundamental tension between data, model, computation and infrastructure and the goal of my research is to democratize machine learning for wants to use them to make our world a better place.
+I am currently the CTO of [Together](http://together.xyz/), building a cloud tailored for artificial intelligence, and an incoming Associate Professor at the Department of Computer Science of the [University of Chicago](http://cs.uchicago.edu/). Before that I was an Associate Professor at [ETH Zurich](https://inf.ethz.ch/). I am interested in the fundamental tension between data, model, computation and infrastructure and the goal of my research is to democratize machine learning for wants to use them to make our world a better place.
 
 I finished my PhD at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) and spent another year as a postdoctoral researcher at [Stanford](https://cs.stanford.edu/), both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/). I did my undergraduate study at Peking University, advised by [Bin Cui](https://cuibinpku.github.io/). 
 
-With a background in data management, we believe in a system approach. Our current research focues on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. 
+We believe in a system approach in tackling emerging problems that we are facing. Our current research focues on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. 
 
 [[**Email: cez@uchicago.edu**](mailto:cez@uchicago.edu)] 
 [[**Google Scholar**](https://scholar.google.ch/citations?hl=en&user=GkXqbmMAAAAJ)]
 [[**Twitter**](https://twitter.com/DS3Lab)]
 
-Check out a summary of our research [here](./docs/research.html). We are also building up two exciting start-ups:
-  - **[Together](https://www.together.xyz/)**: A decentralized cloud for 
-artificial intelligence, with the mission to bring the world's computation together to support the open models ecosystem.
-  - **[Modulos.AI](https://www.modulos.ai/)**: A data-centric AI enterprise platform helps you find the errors, noise and bias in your data so you can build fairer and better AI, faster.
+Check out a summary of our research [here](./docs/research.html). 
 
 Another exciting initiative that I am lucky to be part of as the co-Editors-in-Chief is a new journal **[DMLR](https://data.mlr.press/)**, a new member of the JMLR family focusing on data-centric machine learning research. Stay tuned!
 
 As a research group, one of our most important duties is to nurture the next generation of leaders, which arguably gives us the most significant long-lasting impact to the society. Over the years, students graduated from our groups have became professors in great universities and researchers and engineers in leading industrial companies. See a list and their achievements [here](./docs/students.html).
 
-
-We are super lucky to have been involved in several community building 
-efforts, from 
+We are super lucky to have been involved in several community building efforts, from 
 machine learning systems, data management for ML, to Data-centric AI. 
 Here are a few recent positioning papers on various topics (joint work 
 with many fellow researchers):
@@ -69,6 +64,7 @@ We are always looking for top candidates for PhDs and Postdocs with background i
 - **SIGMOD Research Hightlight Award**, 2015.
 - **SIGMOD Best Paper Award**, 2014.
 
+<!--
 ----
 
 ## Recent/Upcoming Events
@@ -106,3 +102,4 @@ We are always looking for top candidates for PhDs and Postdocs with background i
     - 09/06/2022, 23:30-01:00: [[Paper](https://www.vldb.org/pvldb/vol15/p1256-li.pdf)]
   - <span style="color:blue">Gyeong-in Yu</span>: **_WindTunnel: Towards Differentiable ML Pipelines Beyond a Single Model_**
     - 09/08/2022, 10:30-12:00: [[Paper](https://www.vldb.org/pvldb/vol15/p11-yu.pdf)]
+-->
