@@ -8,8 +8,7 @@ nav_order: 3
 
 ### Alumni and First Employment
 
-<!-- - [Maurice Weber](https://mauriceweber.github.io/) (PhD 2023, Together AI) -->
-
+- [Maurice Weber](https://mauriceweber.github.io/) (PhD 2023, Together AI)
 - [Jue Wang](https://juewang.me/about/index.html) (Researcher 2023, Together AI)
 - [David Dao](https://daviddao.org/) (PhD 2023, founder of GainForest)
 - [Susie Rao](https://susierao.github.io/about/)  (PhD 2023, Postdoc at ETH) 
