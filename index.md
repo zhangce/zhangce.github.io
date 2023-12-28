@@ -19,6 +19,8 @@ We believe in a system approach in tackling emerging problems that we are facing
 [[**Google Scholar**](https://scholar.google.ch/citations?hl=en&user=GkXqbmMAAAAJ)]
 [[**Twitter**](https://twitter.com/DS3Lab)]
 
+(My ETH Zurich email doesn't work anymore and I won't be able to receive emails from ce.zhang@inf.ethz.ch)
+
 Check out a summary of our research [here](./docs/research.html). 
 
 Another exciting initiative that I am lucky to be part of as the co-Editors-in-Chief is a new journal **[DMLR](https://data.mlr.press/)**, a new member of the JMLR family focusing on data-centric machine learning research. Stay tuned!
