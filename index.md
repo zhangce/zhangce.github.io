@@ -19,7 +19,7 @@ We believe in a system approach in tackling emerging problems that we are facing
 [[**Google Scholar**](https://scholar.google.ch/citations?hl=en&user=GkXqbmMAAAAJ)]
 [[**Twitter**](https://twitter.com/DS3Lab)]
 
-(My ETH Zurich email doesn't work anymore and I won't be able to receive emails from ce.zhang@inf.ethz.ch)
+<s>(Note that My ETH Zurich email doesn't work anymore and I won't be able to receive emails sent to ce.zhang@inf.ethz.ch and there seem to be no notice bounching back; Luckily all other emails still work, including those from Stanford and Wisconsin days)</s>
 
 Check out a summary of our research [here](./docs/research.html). 
 
