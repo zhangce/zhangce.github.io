@@ -6,6 +6,10 @@ has_toc: false
 nav_order: 3
 ---
 
+### Students
+
+- [Anton Alexandrov](https://insait.ai/anton-alexandrov/) (PhD 2023-, INSAIT)
+
 ### Alumni and First Employment
 
 - [Maurice Weber](https://mauriceweber.github.io/) (PhD 2023, Together AI)
