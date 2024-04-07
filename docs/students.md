@@ -12,6 +12,7 @@ nav_order: 3
 
 ### Alumni and First Employment
 
+- [Angus Hamilton](https://www.linkedin.com/in/angushamilton97/) (Researcher 2023, Civil Service, Cabinet Office UK)
 - [Maurice Weber](https://mauriceweber.github.io/) (PhD 2023, Together AI)
 - [Jue Wang](https://juewang.me/about/index.html) (Researcher 2023, Together AI)
 - [David Dao](https://daviddao.org/) (PhD 2023, founder of GainForest)
