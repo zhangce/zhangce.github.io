@@ -17,10 +17,7 @@ We believe in a system approach in tackling emerging problems that we are facing
 
 [[**Email: cez@uchicago.edu**](mailto:cez@uchicago.edu)] 
 [[**Google Scholar**](https://scholar.google.ch/citations?hl=en&user=GkXqbmMAAAAJ)]
-[[**Twitter**](https://twitter.com/DS3Lab)]
-
-**(Note that My ETH Zurich email doesn't work anymore so I won't be able to receive emails sent to ce.zhang@inf.ethz.ch and there seem to be no notice bounching back to the sender; Luckily all other emails still work, including those from Stanford and Wisconsin days)**
-
+[[**Twitter**](https://twitter.com/ce_zhang)]
 
 Check out a summary of our research [here](./docs/research.html). 
 
