@@ -9,7 +9,7 @@ nav_order: 1
 
 <img align="right" src="./assets/imgs/CeZhangColor.jpeg" width="150px" style="margin:10px 10px"/>
 
-I am currently the CTO of [Together](http://together.xyz/), building a cloud tailored for artificial intelligence, and the Neubauer Associate Professor of Data Science at the Department of Computer Science of the [University of Chicago](http://cs.uchicago.edu/). Before that I was an Associate Professor at [ETH Zurich](https://inf.ethz.ch/). I am also currenlty a PhD mentor at [INSAIT](https://insait.ai/). I am interested in the fundamental tension between data, model, computation and infrastructure and the goal of my research is to democratize machine learning for everyone to use it to make our world a better place.
+I am currently the CTO of [Together](http://together.xyz/), building a cloud tailored for artificial intelligence, and a Neubauer Associate Professor at the Department of Computer Science of the [University of Chicago](http://cs.uchicago.edu/). Before that I was an Associate Professor at [ETH Zurich](https://inf.ethz.ch/). I am also currenlty a PhD mentor at [INSAIT](https://insait.ai/). I am interested in the fundamental tension between data, model, computation and infrastructure and the goal of my research is to democratize machine learning for everyone to use it to make our world a better place.
 
 I finished my PhD at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) and spent another year as a postdoctoral researcher at [Stanford](https://cs.stanford.edu/), both advised by [Chris Ré](https://cs.stanford.edu/~chrismre/). I did my undergraduate study at Peking University, advised by [Bin Cui](https://cuibinpku.github.io/). 
 
