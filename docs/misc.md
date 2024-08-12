@@ -2,7 +2,7 @@
 title: Services and Honors
 layout: home
 has_toc: false
-nav_order: 5
+nav_order: 6
 ---
 
 ## Selected Services
