@@ -2,7 +2,7 @@
 title: Bio
 layout: home
 has_toc: false
-nav_order: 6
+nav_order: 7
 ---
 
 ## Bio
