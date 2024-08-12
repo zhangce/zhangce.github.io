@@ -7,7 +7,7 @@ nav_order: 5
 
 ## Teachings at Universit of Chicago (2024-)
 
-- *DATA 34100* Introduction to Data Systems and Data Design (2024)
+- *DATA 34100*: Introduction to Data Systems and Data Design (2024)
 
 ## Teachings at ETH Zurich (2016-2023)
 
