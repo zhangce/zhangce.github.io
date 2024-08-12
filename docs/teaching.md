@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 5
 ---
 
-## Teachings at Universit of Chicago (2024-)
+## Teachings at the University of Chicago (2024-)
 
 - *DATA 34100*: Introduction to Data Systems and Data Design (2024)
 
