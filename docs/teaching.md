@@ -3,6 +3,7 @@ title: Teaching
 layout: home
 has_toc: false
 nav_order: 5
+has_children: true
 ---
 
 ## Teachings at the University of Chicago (2024-)
