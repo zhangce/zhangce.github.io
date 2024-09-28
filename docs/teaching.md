@@ -1,5 +1,5 @@
 ---
-title: Teachings
+title: Teaching
 layout: home
 has_toc: false
 nav_order: 5
