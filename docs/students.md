@@ -8,6 +8,9 @@ nav_order: 3
 
 ### Students
 
+- [Zongze Li](https://freelulul.github.io/) (PhD 2024-, UChicago)
+- [Jingyu Liu](https://jingyu6.github.io/) (PhD 2024-, UChicago)
+- [Zach Xu](https://nehzux.github.io/) (PhD 2024-, UChicago)
 - [Anton Alexandrov](https://insait.ai/anton-alexandrov/) (PhD 2023-, INSAIT)
 
 ### Alumni and First Employment
