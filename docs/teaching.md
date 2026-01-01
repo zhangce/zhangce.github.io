@@ -8,7 +8,7 @@ has_children: true
 
 ## Teachings at the University of Chicago (2024-)
 
-- **DATA 34100**: Introduction to Data Systems and Data Design ([2024](https://zhangce.github.io/docs/courses/DATA34100_2024.html))
+- **DATA 34100**: Introduction to Data Systems and Data Design ([2025](https://zhangce.github.io/docs/courses/DATA34100_2025.html)) ([2024](https://zhangce.github.io/docs/courses/DATA34100_2024.html))
 
 ## Teachings at ETH Zurich (2016-2023)
 
